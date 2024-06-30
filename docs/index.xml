@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on My Blog</title>
-    <link>https://andTEJAsan.github.io/docs/</link>
+    <link>http://localhost:56428/docs/</link>
     <description>Recent content in Docs on My Blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2024 11:01:50 +0900</lastBuildDate>
-    <atom:link href="https://andTEJAsan.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56428/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://andTEJAsan.github.io/docs/test/</link>
+      <link>http://localhost:56428/docs/test/</link>
       <pubDate>Sun, 30 Jun 2024 11:01:50 +0900</pubDate>
-      <guid>https://andTEJAsan.github.io/docs/test/</guid>
+      <guid>http://localhost:56428/docs/test/</guid>
       <description>This is a test page This is a test page! hello how are you I am fine wbu ?</description>
     </item>
   </channel>

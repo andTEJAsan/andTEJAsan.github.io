@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My Blog</title>
+    <title>Posts on Tejas Anand</title>
     <link>https://andTEJAsan.github.io/posts/</link>
-    <description>Recent content in Posts on My Blog</description>
+    <description>Recent content in Posts on Tejas Anand</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 12:39:16 +0900</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://andTEJAsan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My_post</title>
-      <link>https://andTEJAsan.github.io/posts/my_post/</link>
-      <pubDate>Sun, 30 Jun 2024 12:39:16 +0900</pubDate>
-      <guid>https://andTEJAsan.github.io/posts/my_post/</guid>
-      <description>This is some content</description>
-    </item>
   </channel>
 </rss>
