@@ -6,8 +6,17 @@
     <description>Recent content on Tejas Anand</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2024 17:02:37 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 17:03:06 +0900</lastBuildDate>
     <atom:link href="https://andTEJAsan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What the Condition ? An Intro To Condition Variables</title>
+      <link>https://andTEJAsan.github.io/blogs/condvar/</link>
+      <pubDate>Wed, 03 Jul 2024 17:03:06 +0900</pubDate>
+      <guid>https://andTEJAsan.github.io/blogs/condvar/</guid>
+      <description>Introduction Are you hearing this term for the first time ? Or maybe you&amp;rsquo;ve heard it before but never really understood it ? Or maybe you&amp;rsquo;ve banged your head against the wall trying to understand it numerous times ?
+Well, you&amp;rsquo;re in luck. This post is for you.
+Condition variables are a synchronization primitive in POSIX (Portable Operating System Interface) systems that allow threads to wait for certain conditions to become true.</description>
+    </item>
     <item>
       <title>Do you know how the computer boots up ?</title>
       <link>https://andTEJAsan.github.io/blogs/bootup/</link>
