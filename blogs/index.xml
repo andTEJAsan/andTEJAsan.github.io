@@ -6,8 +6,17 @@
     <description>Recent content in Blogs on Tejas Anand</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2024 17:03:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 18:08:32 +0900</lastBuildDate>
     <atom:link href="https://andTEJAsan.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflecting upon my time in Kyoto</title>
+      <link>https://andTEJAsan.github.io/blogs/kyoto/</link>
+      <pubDate>Thu, 04 Jul 2024 18:08:32 +0900</pubDate>
+      <guid>https://andTEJAsan.github.io/blogs/kyoto/</guid>
+      <description>Status Quo Over the past one and a half month, I have been living in kyoto as a research intern at Kyoto University. I was among the lucky 18 students selected from the IITs for the KU-STAR (Kyoto University Short Term Academic Research Program).
+I have been working with Professor Kohei Suenaga in Professor Atsushi Igarashi&amp;rsquo;s Lab in the Graduate School of Informatics.
+Konkai Komyoji Temple</description>
+    </item>
     <item>
       <title>What the Condition ? An Intro To Condition Variables</title>
       <link>https://andTEJAsan.github.io/blogs/condvar/</link>
