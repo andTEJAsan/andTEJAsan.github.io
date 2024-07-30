@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tejas Anand</title>
-    <link>https://andTEJAsan.github.io/</link>
-    <description>Recent content on Tejas Anand</description>
+    <title>Projects on Tejas Anand</title>
+    <link>https://andTEJAsan.github.io/projects/</link>
+    <description>Recent content in Projects on Tejas Anand</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jul 2024 17:15:58 +0530</lastBuildDate>
-    <atom:link href="https://andTEJAsan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andTEJAsan.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Market Making Limit OrderBook</title>
       <link>https://andTEJAsan.github.io/projects/lobook/</link>
@@ -45,38 +45,6 @@ To achieve parallelization, I employed a strategy for BFS and Dijkstra&amp;rsquo
       <guid>https://andTEJAsan.github.io/projects/cowxv6/</guid>
       <description>Copy on Write (COW) is a memory management technique that allows multiple processes to share the same memory pages until one of them modifies the content. When a process attempts to modify a shared page, a copy of that page is created, ensuring that the original page remains unchanged. This approach minimizes memory duplication and improves efficiency by reducing the need for unnecessary memory copies.
 Swapping, on the other hand, is a process where the operating system moves pages of memory between the physical memory (RAM) and the disk.</description>
-    </item>
-    <item>
-      <title>What the Condition ? An Intro To Condition Variables</title>
-      <link>https://andTEJAsan.github.io/blogs/condvar/</link>
-      <pubDate>Wed, 03 Jul 2024 17:03:06 +0900</pubDate>
-      <guid>https://andTEJAsan.github.io/blogs/condvar/</guid>
-      <description>Introduction Are you hearing this term for the first time ? Or maybe you&amp;rsquo;ve heard it before but never really understood it ? Or maybe you&amp;rsquo;ve banged your head against the wall trying to understand it numerous times ?
-Well, you&amp;rsquo;re in luck. This post is for you.
-Condition variables are a synchronization primitive in POSIX (Portable Operating System Interface) systems that allow threads to wait for certain conditions to become true.</description>
-    </item>
-    <item>
-      <title>Do you know how the computer boots up ?</title>
-      <link>https://andTEJAsan.github.io/blogs/bootup/</link>
-      <pubDate>Tue, 02 Jul 2024 17:02:37 +0900</pubDate>
-      <guid>https://andTEJAsan.github.io/blogs/bootup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The End ?</title>
-      <link>https://andTEJAsan.github.io/blogs/final_presentation/</link>
-      <pubDate>Tue, 02 Jul 2024 16:57:14 +0900</pubDate>
-      <guid>https://andTEJAsan.github.io/blogs/final_presentation/</guid>
-      <description>Another phase of my life has ended. Let’s think about what every moment felt like.
-Right now, I’m sitting in a bus to Oakwood Hotel, and I took a quick peek inside my mind, wondering, “What did it feel like?” And what’s the answer I got? A void. That’s right, a void.
-Some of you (if you are reading this, understand that you are a statistical anomaly among the people who are my “acquaintances”) might be wondering how I could feel a void when everything seems alright in my life.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://andTEJAsan.github.io/about/about/</link>
-      <pubDate>Sun, 30 Jun 2024 14:50:12 +0900</pubDate>
-      <guid>https://andTEJAsan.github.io/about/about/</guid>
-      <description>hello this is me </description>
     </item>
   </channel>
 </rss>
