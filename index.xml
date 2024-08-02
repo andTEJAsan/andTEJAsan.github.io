@@ -53,7 +53,8 @@ Swapping, on the other hand, is a process where the operating system moves pages
       <guid>https://andTEJAsan.github.io/blogs/kyoto/</guid>
       <description>Status Quo Over the past one and a half month, I have been living in kyoto as a research intern at Kyoto University. I was among the lucky 18 students selected from the IITs for the KU-STAR (Kyoto University Short Term Academic Research Program).
 I have been working with Professor Kohei Suenaga in Professor Atsushi Igarashi&amp;rsquo;s Lab in the Graduate School of Informatics.
-Konkai Komyoji Temple</description>
+Konkai Komyoji Temple
+What I learnt Life is uncertain and unpredictable.</description>
     </item>
     <item>
       <title>What the Condition ? An Intro To Condition Variables</title>
@@ -63,13 +64,6 @@ Konkai Komyoji Temple</description>
       <description>Introduction Are you hearing this term for the first time ? Or maybe you&amp;rsquo;ve heard it before but never really understood it ? Or maybe you&amp;rsquo;ve banged your head against the wall trying to understand it numerous times ?
 Well, you&amp;rsquo;re in luck. This post is for you.
 Condition variables are a synchronization primitive in POSIX (Portable Operating System Interface) systems that allow threads to wait for certain conditions to become true.</description>
-    </item>
-    <item>
-      <title>Do you know how the computer boots up ?</title>
-      <link>https://andTEJAsan.github.io/blogs/bootup/</link>
-      <pubDate>Tue, 02 Jul 2024 17:02:37 +0900</pubDate>
-      <guid>https://andTEJAsan.github.io/blogs/bootup/</guid>
-      <description></description>
     </item>
     <item>
       <title>The End ?</title>
